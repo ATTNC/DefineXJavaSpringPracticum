@@ -27,7 +27,7 @@
 - Yazlıkların ortalama metrekaresini dönen metot
 
 - Tüm tipteki evlerin ortalama metrekaresini dönen metot
-- 
+
 - Oda ve salon sayısına göre tüm tipteki evleri filtreleyip dönen metot
 
 <img src= "https://github.com/ATTNC/DefineXJavaSpringPracticum/blob/main/Hafta2/HouseTypesApp/screenshots/main.jpg" width=400>
