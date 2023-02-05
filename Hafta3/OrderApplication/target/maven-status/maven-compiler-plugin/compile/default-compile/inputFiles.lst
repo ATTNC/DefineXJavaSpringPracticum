@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\Main.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\abstracts\Customer.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\concretes\IndividualCustomer.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\abstracts\Order.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\concretes\CorporateCustomer.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\service\concretes\CustomerServiceImpl.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\concretes\Invoice.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\concretes\CorporateOrder.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\entity\concretes\IndividualOrder.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\repository\concretes\CustomerRepositoryImpl.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\repository\abstracts\CustomerRepository.java
+C:\Users\PC\Desktop\Spring\OrderApplication\src\main\java\org\tutuncu\abdullah\orderapp\service\abstracts\CustomerService.java

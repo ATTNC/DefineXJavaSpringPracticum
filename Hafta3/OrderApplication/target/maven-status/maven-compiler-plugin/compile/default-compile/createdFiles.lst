@@ -1,0 +1,12 @@
+org\tutuncu\abdullah\orderapp\entity\concretes\IndividualOrder.class
+org\tutuncu\abdullah\orderapp\entity\abstracts\Order.class
+org\tutuncu\abdullah\orderapp\Main.class
+org\tutuncu\abdullah\orderapp\service\concretes\CustomerServiceImpl.class
+org\tutuncu\abdullah\orderapp\entity\abstracts\Customer.class
+org\tutuncu\abdullah\orderapp\entity\concretes\IndividualCustomer.class
+org\tutuncu\abdullah\orderapp\repository\concretes\CustomerRepositoryImpl.class
+org\tutuncu\abdullah\orderapp\service\abstracts\CustomerService.class
+org\tutuncu\abdullah\orderapp\entity\concretes\CorporateOrder.class
+org\tutuncu\abdullah\orderapp\repository\abstracts\CustomerRepository.class
+org\tutuncu\abdullah\orderapp\entity\concretes\Invoice.class
+org\tutuncu\abdullah\orderapp\entity\concretes\CorporateCustomer.class
