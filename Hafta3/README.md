@@ -3,6 +3,7 @@
 Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği bir uygulama yazın. 
 
 - Listeleme işlemleri stream kullanılarak yapılmalı.
+-  **Tüm stream metodları Service katmanında kullanıldı lütfen Servis katmanını kontrol ediniz.** 
 - Maven projesi oluşturun.
 - Maven komutlarını çalıştırıp, çıktıyı ekleyin
 - Tüm müşterileri listeleyin 
